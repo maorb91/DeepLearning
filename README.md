@@ -1,6 +1,6 @@
 Run the **VAE_Anomaly_Detection.ipynb** notebook in order to train simple VAE,load pretrained VAEs and see the results of each one of the VAEs
 
-To **tarin VAE** run** train.py** this will save the model to the project folder
+To **tarin VAE run train.py** this will save the model to the project folder
 
 If you want **to change the vae parameters**(number of layers, latent space dimension, beta, and alpha) **edit the tarin.py** main function 
 
