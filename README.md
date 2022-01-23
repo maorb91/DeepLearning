@@ -1,4 +1,4 @@
-Run the VAE_Anomaly_Detection.ipynb notebook in order to train simple VAE,load pretrained VAEs in and see the results of each one of the VAEs
+Run the VAE_Anomaly_Detection.ipynb notebook in order to train simple VAE,load pretrained VAEs and see the results of each one of the VAEs
 
 to tarin VAE run train.py this will save the model to the project folder
 
